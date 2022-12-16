@@ -5,7 +5,7 @@
 * [简体中文](docs/README.zh-Hans.md)
 
 # K510 SDK
-
+Wu
 Kendryte K510 is the second generation of AI edge-side inference chips launched by Canaan, which provides high-performance image and speech processing capabilities for AI applications. The K510 is equipped with the self-developed second-generation neural network processor KPU2.0, which adopts the original computing data flow technology, that increases the computing power by 3 times compared with the previous generation and reduces power consumption. Integrated with the latest generation of image processor ISP. It supports TOF depth camera access, 2D/3D noise reduction, wide dynamic range (WDR), hardware 3A, and other complete functions. The 3D ISPs support depth camera TOF sensors, and can be widely used in different application fields such as unmanned aerial vehicles, high-definition aerial photography, professional cameras, video conferencing, intelligent robots, educational STEAM, and automatic assisted driving.
 
 K510 SDK is a software development kit provided by Canaan for K510 chip application development. Its default configuration is based on K510 CRB (customer reference platform). The warehouse content includes the toolchain software, PC toolkit, Linux code, bootloader, bbl, buildroot build system software, and related hardware resource documents that users may use in the development with K510 chip. Users can customize and change development according to their own needs based on this set of software code base, and finally build and compile the image file used for deployment.
